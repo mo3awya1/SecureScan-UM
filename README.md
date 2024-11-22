@@ -14,7 +14,7 @@ Run the following command to install necessary libraries:
 
 ## Usage:
 ```bash
-git clone https://github.com/YOUR_USERNAME/WP-UM-Vuln-Scanner.git 
+git clone https://github.com/mo3awya1/SecureScan-UM 
 cd WP-UM-Vuln-Scanner
 chmod +x setup.sh
 ./setup.sh
