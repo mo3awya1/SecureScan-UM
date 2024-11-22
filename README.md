@@ -19,3 +19,6 @@ cd WP-UM-Vuln-Scanner
 chmod +x setup.sh
 ./setup.sh
 python3 scanner.py -f targets.txt
+
+## Examples
+![Nature View](https://i.imgur.com/YiuHq2i.png)
