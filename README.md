@@ -23,3 +23,5 @@ To set up and run the scanner, follow these steps:
    ./setup.sh
    python3 scanner.py -f targets.txt
 
+## Examples
+![Nature View](https://i.imgur.com/Uoe1Bys.png)
