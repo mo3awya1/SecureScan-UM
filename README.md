@@ -12,6 +12,9 @@ Ensure Python 3.8 or higher is installed on your system.
 # Install Required Libraries:
 Run the following command to install necessary libraries:
 
+## Examples
+![Nature View](https://i.imgur.com/Uoe1Bys.png)
+
 ## Usage:
 ```bash
 git clone https://github.com/mo3awya1/SecureScan-UM 
