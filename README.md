@@ -11,3 +11,11 @@ Provides guidance for using SQLMap to test further vulnerabilities.
 Ensure Python 3.8 or higher is installed on your system.
 # Install Required Libraries:
 Run the following command to install necessary libraries:
+
+## Usage:
+```bash
+git clone https://github.com/YOUR_USERNAME/WP-UM-Vuln-Scanner.git 
+cd WP-UM-Vuln-Scanner
+chmod +x setup.sh
+./setup.sh
+python3 scanner.py -f targets.txt
