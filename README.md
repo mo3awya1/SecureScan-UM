@@ -12,15 +12,10 @@ Ensure Python 3.8 or higher is installed on your system.
 # Install Required Libraries:
 Run the following command to install necessary libraries:
 
-### **Usage:**
-```bash
-git clone https://github.com/mo3awya1/SecureScan-UM
-cd WP-UM-Vuln-Scanner
-chmod +x setup.sh
-./setup.sh
-python3 scanner.py -f targets.txt
+## Usage:
+To set up and run the scanner, follow these steps:
 
-
-### **Examples:**
-![Nature View](https://i.imgur.com/Uoe1Bys.png)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mo3awya1/SecureScan-UM
 
