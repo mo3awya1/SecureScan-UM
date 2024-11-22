@@ -18,4 +18,8 @@ To set up and run the scanner, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/mo3awya1/SecureScan-UM
+   cd WP-UM-Vuln-Scanner
+   chmod +x setup.sh
+   ./setup.sh
+   python3 scanner.py -f targets.txt
 
